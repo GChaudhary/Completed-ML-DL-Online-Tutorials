@@ -1,0 +1,15 @@
+#visualisation of weights and activations of CNN
+
+------ This repo helped in visualizing WEIGHTS & ACTIVATIONS ------
+****** Github repo - https://github.com/grishasergei/conviz  ******
+
+Just an intro video (https://www.youtube.com/watch?v=Gu0MkmynWkw)
+
+Reference to previous video (https://ml4a.github.io/classes/itp-S16/07/ -- (Visualizing activations and synthesizing classes (1:34:23)))
+
+"Understanding Neural Networks Through Deep Visualization" by Jason Yosinski, Jeff Clune, Anh Nguyen, Thomas Fuchs, Hod Lipson (https://arxiv.org/abs/1506.06579)
+* Github repo link - (https://github.com/yosinski/deep-visualization-toolbox)
+
+"Visualizing and Understanding Convolutional Networks" by Matthew D Zeiler, Rob Fergus (https://arxiv.org/abs/1311.2901)
+
+
